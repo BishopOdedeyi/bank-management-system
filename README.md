@@ -1,6 +1,6 @@
 # Bank Account Management System
 
-# Day 2 100 days of code
+## Day 2 100 days of code
 
 A simple Python program to manage bank accounts, including functionalities for depositing money, transferring funds, and checking account details and transaction history.
 
